@@ -1,0 +1,47 @@
+{
+    "meals": [
+        {
+            "name": "Honey Garlic Chicken",
+            "category": "Dinner",
+            "ingredients": [
+                "chicken thighs",
+                "honey",
+                "soy sauce",
+                "garlic",
+                "rice",
+                "broccoli"
+            ],
+            "notes": "Good with frozen broccoli. Sauce can be made ahead."
+        },
+        {
+            "name": "Chickpea Pasta",
+            "category": "Dinner",
+            "ingredients": [
+                "pasta",
+                "chickpeas",
+                "tomato sauce",
+                "spinach"
+            ],
+            "notes": "A quick vegetarian pantry meal."
+        },
+        {
+            "name": "Yogurt Berry Bowl",
+            "category": "Breakfast",
+            "ingredients": [
+                "yogurt",
+                "berries",
+                "granola"
+            ],
+            "notes": "A fast no-cook breakfast."
+        }
+    ],
+    "weekly_plan": {
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null,
+        "Saturday": null,
+        "Sunday": null
+    }
+}
